@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+heyleia.com	TRUE	/	FALSE	1999999999	PHPSESSID	at3460gjek4o7cto56coplqfq8
+
